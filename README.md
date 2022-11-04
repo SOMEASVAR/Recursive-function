@@ -19,7 +19,7 @@ Recusively call this function to get the reversed number.
 ### Step 5:
 Print the reversed number.
 
-##Program:
+## Program:
 ```
 using System;
 namespace Som
